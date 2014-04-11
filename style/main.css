@@ -241,11 +241,11 @@ hr {
   -moz-transform: translate(0px, 121px);
   transform: translate(0px, 121px); }
 .tile.tile-position-1-3 {
-  -webkit-transform: translate(0px, 242px);
+  -webkit-transform: translate(5px, 242px);
   -moz-transform: translate(0px, 242px);
   transform: translate(0px, 242px); }
 .tile.tile-position-1-4 {
-  -webkit-transform: translate(0px, 363px);
+  -webkit-transform: translate(0px, 242px);
   -moz-transform: translate(0px, 363px);
   transform: translate(0px, 363px); }
 .tile.tile-position-2-1 {
